@@ -1,2 +1,2 @@
-# SpringFramework
-Sample programs to describe Spring Framework
+# SpringBoot
+Sample programs to describe Spring Boot
